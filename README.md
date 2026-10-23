@@ -1,18 +1,24 @@
 # QuickSwitch
 
-Control common macOS settings from one compact menu-bar panel.
+[**English**](README.md) · [繁體中文](README.zh-Hant.md) · [简体中文](README.zh-Hans.md)
 
-**系統效率系列：系統快捷開關、保持喚醒時間及工作配方。** Interfaces support English, Traditional Chinese and Simplified Chinese.
+![QuickSwitch banner](assets/hero.svg)
 
-## Features
+![preview](https://img.shields.io/badge/release-0.4.0--preview.1-56d2b1?style=flat-square) ![GPLv3](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)
 
-- Use common system switches from the menu bar.
-- Keep the Mac awake for a duration or until a chosen time.
-- Save reusable profiles for recurring work and meeting setups.
+**Your frequent Mac switches in one place.** A standalone project in the personal macOS tools collection.
 
-## Build and test
+## What it does
 
-Requires macOS 14+, Xcode 27/Swift 6 and Python 3. This repository includes its required shared packages; keep `Shared/` and `scripts/` beside `QuickSwitch/`.
+- Control supported macOS switches from a compact menu-bar panel.
+- Keep the Mac awake for a duration or until a selected clock time.
+- Save reusable profiles for meetings and recurring work.
+
+## Install a preview
+
+Download the macOS ZIP from [Releases](https://github.com/yoko1234p/QuickSwitch/releases/tag/v0.4.0-preview.1), unzip, and move `QuickSwitch.app` to Applications. This preview uses ad-hoc signing and is **not notarized**. On first launch, use Finder’s **Open** context menu; if macOS blocks it, review **System Settings → Privacy & Security → Open Anyway**. Grant only the permissions you need. Do not install over a working copy without backing up local data.
+
+## Build from source
 
 ```sh
 cd QuickSwitch
@@ -20,14 +26,12 @@ APP_UI_LANGUAGE=zh-Hant swift test -j 4
 bash Scripts/build.sh release
 ```
 
-The app bundle is written to `QuickSwitch/dist/QuickSwitch.app`. Building does not install or launch it. See [SIGNING.md](SIGNING.md) for ad-hoc development and your own signing identity.
+The required local `Shared/` packages and build helpers are included. Building does not install or launch the app.
 
-## Use and limitations
+## Requirements and limits
 
-Some switches need native macOS permissions or depend on OS-specific APIs and connected hardware. The app reports unavailable controls; supported behavior varies by macOS release. Profiles and settings remain local.
+macOS 14+; Xcode 27/Swift 6 and Python 3 for source builds. Available switches depend on macOS, connected hardware and native permissions. Profiles and settings are stored locally.
 
-## Development and license
+## Contribute and license
 
-This app is under active development. Report the macOS version, reproduction steps and actual validation results with changes. Use synthetic data for file, clipboard and permission tests. Validate interface catalogs from the repository root with `python3 scripts/localization/check-catalogs.py`.
-
-Original maintained code is **GPL-3.0-only**. Keep the separate dependency/data notices listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). See [LICENSE](LICENSE) and [CONTRIBUTING.md](CONTRIBUTING.md).
+Original application code is GPL-3.0-only. Keep bundled third-party and data notices; see [LICENSE](LICENSE), [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), [CONTRIBUTING.md](CONTRIBUTING.md), and [SECURITY.md](SECURITY.md).
