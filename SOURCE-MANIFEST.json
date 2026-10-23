@@ -1,0 +1,512 @@
+{
+  "schemaVersion": 1,
+  "app": "QuickSwitch",
+  "sourceProject": "QuickSwitch",
+  "license": "GPL-3.0-only",
+  "sharedSourceHashes": {
+    "AppLocalizationKit": "0851a965a9dc105658cf8d362b0a14ad13b5ee0b02b6209ce89c7be404bd0174",
+    "MacProcessKit": "2531495a8e3a2b92d77f479793bd71a0ed5008bf73a1899725bfdc5e483a240d"
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 333,
+      "sha256": "da5602dbd93009bbe59dc253fcc836e23994fc598bf297775d8b75db1f594b61"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1753,
+      "sha256": "1807d13bdd8c149eaa6dd4dbfe7916c7094f454da7da2f9a6f767bc4a30b8ce7"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "QuickSwitch/.gitignore",
+      "bytes": 32,
+      "sha256": "8c874ffac38bbfe7160be5fcbe7e39a6c5d0ccc83309db00f82db0be838f7e28"
+    },
+    {
+      "path": "QuickSwitch/.swift-format",
+      "bytes": 2814,
+      "sha256": "df14e24aec5139f445f251661abb6744a79dc1bc5a7098400f1692b9247e668e"
+    },
+    {
+      "path": "QuickSwitch/LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "QuickSwitch/Package.swift",
+      "bytes": 1363,
+      "sha256": "e8992723212cd16b0cafec92d51e2906a32ee5e6ee5975980fbd497db403fb57"
+    },
+    {
+      "path": "QuickSwitch/README.md",
+      "bytes": 182,
+      "sha256": "441df589da6c32e7a687551df2d8643b6e6f52dd6d75aed35a2e96d4e758d884"
+    },
+    {
+      "path": "QuickSwitch/Scripts/build.sh",
+      "bytes": 2611,
+      "sha256": "a7add081f034bd95cfea193eda98844fde6990cc8264863e95a821095b891d8d"
+    },
+    {
+      "path": "QuickSwitch/Scripts/install.sh",
+      "bytes": 3234,
+      "sha256": "223eeb559c4560f49a6d770a3a101cfa13b4c69086c4d1e89002dba67ef5ba75"
+    },
+    {
+      "path": "QuickSwitch/Scripts/make-icon.swift",
+      "bytes": 2735,
+      "sha256": "8f04cce6964fbc3fe9c5593308905c2ed0e6500b1493f3d743016e7b493f100a"
+    },
+    {
+      "path": "QuickSwitch/Scripts/observe-original.swift",
+      "bytes": 7042,
+      "sha256": "b12d093045abd0617334f29ffe243901569f4916d802111ebe272ec6e5aedad2"
+    },
+    {
+      "path": "QuickSwitch/Scripts/test-focus-state.sh",
+      "bytes": 4010,
+      "sha256": "28a4e79dfd32ac6a5d3dcd8a21999bcbbc742f52ecb33db738028571ebc7bea8"
+    },
+    {
+      "path": "QuickSwitch/Scripts/test-install.sh",
+      "bytes": 11403,
+      "sha256": "286bf3fd03b43ac709bd7c8d2b8294abb3a428907a48a9a20c5a6647314e7179"
+    },
+    {
+      "path": "QuickSwitch/Scripts/test-keyboard-lock.sh",
+      "bytes": 9441,
+      "sha256": "9d243fae714db49a6a0ff641a5409c0080c21e97fa8919dd060c3f34e60fe6de"
+    },
+    {
+      "path": "QuickSwitch/Scripts/test-media-events.sh",
+      "bytes": 9262,
+      "sha256": "d165e68d466e42ea55f0ed6aa762fa1ad28d3a99074aa44405c31cfb453aa105"
+    },
+    {
+      "path": "QuickSwitch/Scripts/ui-smoke.swift",
+      "bytes": 3722,
+      "sha256": "24d7e581a7ac8c4d1ef5db2f694eadf7160de93c2a81fb5ea5bcd140112569b0"
+    },
+    {
+      "path": "QuickSwitch/Sources/CSQLite/module.modulemap",
+      "bytes": 80,
+      "sha256": "bbfe59a972a3e8e09e347c04bc22c0eacd2544881af8a4b6068bfc30b38466e8"
+    },
+    {
+      "path": "QuickSwitch/Sources/CSQLite/shim.h",
+      "bytes": 21,
+      "sha256": "b052d8e561e942f97b503033ecd2eaa2b35213bdbf374983efe9e68eabdfc024"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/AppModel.swift",
+      "bytes": 29817,
+      "sha256": "364260a2f4dc5524548088e76c91c690292849baf57a11f94125aa52b9e84d76"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/AppleScriptMusicTransport.swift",
+      "bytes": 3460,
+      "sha256": "698e25e3a3f4c503f64db1a7f12193a9bab3d1041f466f38cf52c468bcaef753"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/DashboardView.swift",
+      "bytes": 11594,
+      "sha256": "67b1895e46279e7e276475bd3636d0ac1c1d7f6a2665892a4286a1dca8685b50"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/DisplayInventory.swift",
+      "bytes": 2842,
+      "sha256": "b21d76c6ab067ad23afebbbc0919b3059be377721b61d6116f5f5d2d9ff90fd3"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/FocusController.swift",
+      "bytes": 7733,
+      "sha256": "58b947a904c0855e350776ea126c00ff29d5aefcc7249eedbc1d5bb8bc151ce3"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/Hotkeys.swift",
+      "bytes": 5438,
+      "sha256": "6f4675bd1346dd26fd5720555da1047ff6d2add1937c55305ac7362a9076c7f7"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/KeepAwakeControls.swift",
+      "bytes": 10225,
+      "sha256": "8ee0555264902c3cc21fe5854a85f7c9bee1be4e24127148fcb0b5c40e2a8b66"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/Main.swift",
+      "bytes": 14459,
+      "sha256": "2dcb20ba8d105f5c4d7210f6c018740ab2cf78a4cece64516104a29f0d324dba"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/ProfileSettingsView.swift",
+      "bytes": 7106,
+      "sha256": "7db0368b3dc2c3fd5b966dfc0187a1e7e43781270dd828a7cfa6b5f8b6468d82"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/QuickSwitchBrand.swift",
+      "bytes": 3289,
+      "sha256": "7450ae2204b72d63734699da7cf3a4710b6eabae5b7c141de66d7b5a2822feea"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/SystemBackend.swift",
+      "bytes": 31520,
+      "sha256": "96c1958dec25424c7177774d9e66864c1eb2786235112218d4d5941d50c22315"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitch/Views.swift",
+      "bytes": 33378,
+      "sha256": "7d0da8f866d5f91e9d4e66cc163e2f349b26e4e89a1cc595020a9ac0caeecd25"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Automation.swift",
+      "bytes": 2289,
+      "sha256": "7a20903722ab1d3c2672e26357928772f1243432a95aea9ec00e010107f0aec2"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/BluetoothBattery.swift",
+      "bytes": 2844,
+      "sha256": "83b2face5f4c0291adc8887721f8bbd1406499bc2c4a78ea2ec5cfd6e917e99f"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/CommandRunner.swift",
+      "bytes": 226,
+      "sha256": "fa42596c4dd1f8a3e41688a79d103bdc3a9d509f00b0916de1f798538b954b12"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/DisplaySelection.swift",
+      "bytes": 4646,
+      "sha256": "9f7fec4fa83fc0cdbd8fe49271e64e1775ede9b2216c6c64731da38004dba547"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/FocusControl.swift",
+      "bytes": 5241,
+      "sha256": "83bd189c587c7a31cab9912360f2478fcfdda2213bae1a9a175ef1cfa884a4d6"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/FocusShortcutDocument.swift",
+      "bytes": 1321,
+      "sha256": "3f185030c4376a5555b830af0cdc27ffbb6932903cbb3fbe0924d3ce99afd4c2"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/GUIStartupOptions.swift",
+      "bytes": 2473,
+      "sha256": "6c095b2cb32a63cd52493833034b44ae9e3689dc4b71ef6533bfb4e6667bdd77"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/HiddenApplicationsSession.swift",
+      "bytes": 4623,
+      "sha256": "1da9e41f117b4d3631a47d10aafba580a37e96b712f3eb81da965eb332c21d42"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/KeepAwakeDuration.swift",
+      "bytes": 3092,
+      "sha256": "7e365c6e26fa21db61adff1f78a42ebf5b3e51b715fad82388dec3e1d4da42ff"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Localization.swift",
+      "bytes": 601,
+      "sha256": "06a9850496e12b2fe59cab1c533110fb5eb2ba55fc9fe2a25ce070a2f80337f9"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Migration.swift",
+      "bytes": 17744,
+      "sha256": "4e7ed803b9a07ea68a358eb445853e0359bde222d77e6809f380cfc2b5009221"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Models.swift",
+      "bytes": 13343,
+      "sha256": "4f42e84fa1c3ac3201f12f919ba735ac2efab7332a24731018e89ea7075e4e38"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/MusicPlayback.swift",
+      "bytes": 9782,
+      "sha256": "c803d83f98c323b964be5402f933eab73a3c686d4052a7b23b354d0b3d9e8fe5"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Resources/Localization/en.lproj/Localizable.strings",
+      "bytes": 32556,
+      "sha256": "a20321851cf56b3e1582ab2a9a5f3f004049dc7052e6afdb37b7c41a2a5d7221"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Resources/Localization/zh-Hans.lproj/Localizable.strings",
+      "bytes": 28393,
+      "sha256": "f9bbb4646f9d4dc8d5219e457e9aa11c592d72f5407b01a591ef3cf69e1990d0"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/Resources/Localization/zh-Hant.lproj/Localizable.strings",
+      "bytes": 28231,
+      "sha256": "9b3f9a934414b4e61ddd3a32ad720b716f8b25c1cf0144830b12e8729c0b382f"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/SolarSchedule.swift",
+      "bytes": 4571,
+      "sha256": "72f1828ebfe83d95660b07d1b2acb195377abc29e9540a3429673baf8212e36b"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/SwitchProfiles.swift",
+      "bytes": 3969,
+      "sha256": "055cd80a2de58f993c51908577d80c98bdb6ddebd878986ccaddfecb14b438da"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchCore/SystemObservation.swift",
+      "bytes": 1629,
+      "sha256": "5a4a40641ba573187514d258c4168ce4ad0e1406c3c8c3d5e6fc4a39f2706dc7"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/Bridge.m",
+      "bytes": 4276,
+      "sha256": "a6bdca0ed57046788ac0a9c2886bb62b60e188cfd861063d4349c79dc32e2f00"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/Focus.m",
+      "bytes": 7965,
+      "sha256": "e4ae21d72a22fc348be430f8ad466c40691d39b05a614c3971748a3bc468fa79"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/KeyboardEscapePolicy.h",
+      "bytes": 1050,
+      "sha256": "24ed7dd49be6c8e89298adf0c89405c4ecf385ff42a2a28e65a634b1e2e27655"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/KeyboardLock.m",
+      "bytes": 6891,
+      "sha256": "599af59a65d13b53a3ca462b422bb06340dea2163bb407b8f68163a2d8245bfe"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/MediaRead.m",
+      "bytes": 9156,
+      "sha256": "5d1f63dd26931d8b42d4c921e51cac344377a11abc2c169876d5af004c59ee4b"
+    },
+    {
+      "path": "QuickSwitch/Sources/QuickSwitchNative/include/QuickSwitchNative.h",
+      "bytes": 1672,
+      "sha256": "46e7787b6b216696e5700da4734524b574d19d3582af38c3a983f7c5305ae99c"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchAppTests/KeepAwakePowerTests.swift",
+      "bytes": 2378,
+      "sha256": "327bb29adda14e28f462e46c9e35fae529bb5873d139055fda730a3e5994645f"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/AutomationTests.swift",
+      "bytes": 5046,
+      "sha256": "303ade8c9aa1dd92bcdc3ed36fac58557273b50d490daa30dcb7f554616660c5"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/BluetoothBatteryTests.swift",
+      "bytes": 2253,
+      "sha256": "c70a17a9f690a88b4d31c8e6bccc5c7df5eb9e4f0629a88580113a5e963599e3"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/CommandRunnerTests.swift",
+      "bytes": 5442,
+      "sha256": "f82aff33bee19d1cb231efe8c7add946518032a1be01c2c12ae2058f845abde3"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/DisplaySelectionTests.swift",
+      "bytes": 6298,
+      "sha256": "005da2c059ffa89c47c276d5efbf7883c7dad842c0db8ff95222e9fe079e9c13"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/FocusControlTests.swift",
+      "bytes": 6838,
+      "sha256": "98f7cd5f656122e44ab291817abfa40640e7065343df1d4476b99b337ba0c0df"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/GUIStartupOptionsTests.swift",
+      "bytes": 3179,
+      "sha256": "465d4fc71203446965036b0d46f5f37c7b297267a3991ad4c2b8f6b697dc3f53"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/HiddenApplicationsSessionTests.swift",
+      "bytes": 6275,
+      "sha256": "d1c42c1e35a80b63fa38a033d9e478eb6e2ef1e40bacc6f673f8ba53cef3ecbd"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/KeepAwakeTests.swift",
+      "bytes": 3961,
+      "sha256": "a8ab61b85a925914f8e82e7c49839607a6402f10b842268ef4708119338956ad"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/MigrationTests.swift",
+      "bytes": 8166,
+      "sha256": "784bfd07da4fbe965d03d943ed2498bc0f9e2f46c9e5dfff61955e03c84c8967"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/MusicObservationTests.swift",
+      "bytes": 7178,
+      "sha256": "e9d1d06d9b09fb935103f80effe14581a3851570015963e19b7abdf74d383c5c"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/MusicPlaybackTests.swift",
+      "bytes": 8625,
+      "sha256": "28fd19e393610d1236fbc5410acee4a1fef5589458afe7df397951ffdf02d181"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/SolarScheduleTests.swift",
+      "bytes": 2966,
+      "sha256": "d3f4e2727d77ec260662e049cff9277fe57758898076412d4e12fe1cb9786d7d"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/SourceScheduleTests.swift",
+      "bytes": 4337,
+      "sha256": "b6eac5a7a8fe93cc5dd3c9a3c4d0690962436687d778a55185d14a5a718ffd4f"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/SwitchProfileTests.swift",
+      "bytes": 3477,
+      "sha256": "fb4775135b63a8825517824ad155a82f39dbfdbaafa0201a09d74a921df02145"
+    },
+    {
+      "path": "QuickSwitch/Tests/QuickSwitchCoreTests/SystemObservationTests.swift",
+      "bytes": 1912,
+      "sha256": "832b2ef1afea9c81bcaa55d9f48f5bb0b4d6552e5c4518abc9b6371581687459"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1662,
+      "sha256": "8d05047d5069fb7ec06552d1ffd28d16e09b6def2ef058e5bcc1fead922567e6"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 763,
+      "sha256": "001ff77a4ad5acb43802cfba1cb65612184660ba428ca11cd6c94a1abff338ce"
+    },
+    {
+      "path": "SIGNING.md",
+      "bytes": 496,
+      "sha256": "04bb2db933ff6e275dc80efc74c3b1f9e32a23de2a87c0494b00463069cd10f5"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Package.swift",
+      "bytes": 457,
+      "sha256": "9588dd23cd86e80216b7b17a961aac141cd98392e4502d3fcb5cc1244b73edd5"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Sources/AppLocalizationKit/AppLocalizer.swift",
+      "bytes": 5248,
+      "sha256": "c7669743bab2757de9002058681c01fa1e4b1828810de92f4b2816df451166aa"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Tests/AppLocalizationKitTests/AppLocalizerTests.swift",
+      "bytes": 2347,
+      "sha256": "a17526e6daa5753bb50c7f8cf54fa797f3e3f09ede39bd2d715ac4eee1fa279a"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Tests/AppLocalizationKitTests/Fixtures/LocalizationFixture.bundle/Info.plist",
+      "bytes": 373,
+      "sha256": "6496a60b4b8ac8cf4f74a7645ac8fdfd662f7d6aeab08aebaf70793977aeca32"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Tests/AppLocalizationKitTests/Fixtures/LocalizationFixture.bundle/en.lproj/Localizable.strings",
+      "bytes": 67,
+      "sha256": "73223e8cc4d1464bddd2ab630b3ead85f94d791ab588424278b05eca95aaf09d"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Tests/AppLocalizationKitTests/Fixtures/LocalizationFixture.bundle/zh-Hans.lproj/Localizable.strings",
+      "bytes": 27,
+      "sha256": "b86d1275f4bffc38cea14a52477feb58a82c245eaabe9ccd222a4552582b64aa"
+    },
+    {
+      "path": "Shared/AppLocalizationKit/Tests/AppLocalizationKitTests/Fixtures/LocalizationFixture.bundle/zh-Hant.lproj/Localizable.strings",
+      "bytes": 27,
+      "sha256": "4a20b23d7d8b82de32523cf21dca75a07213f9c0caa68e11bfc43f64a90b537f"
+    },
+    {
+      "path": "Shared/MacProcessKit/.gitignore",
+      "bytes": 18,
+      "sha256": "acc718146d21aae829cba1761475e05de39d73209d83af2ab8487a74843cead0"
+    },
+    {
+      "path": "Shared/MacProcessKit/Package.swift",
+      "bytes": 382,
+      "sha256": "04b962892f28f3fbbdf75aa06189f3a5e4c8023090ad5b156a0354d5d96c85c7"
+    },
+    {
+      "path": "Shared/MacProcessKit/README.md",
+      "bytes": 1948,
+      "sha256": "6f04cd5cd97b62bcfaf9602256447fa957ecaacf9b2a4bf5b6a214e7697c2d5e"
+    },
+    {
+      "path": "Shared/MacProcessKit/Sources/MacProcessKit/CommandRunner.swift",
+      "bytes": 11183,
+      "sha256": "023706497cb7d54658afba3a08ab59c5c035dce641e5c74add95444ae2315ffe"
+    },
+    {
+      "path": "Shared/MacProcessKit/Tests/MacProcessKitTests/CommandRunnerTests.swift",
+      "bytes": 3804,
+      "sha256": "4ee5e8a21e7b6639bc8fdab56c17371441e0ca4c01cbf7b40d61dfa135226db3"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 539,
+      "sha256": "82b69722ceb49dac5e876d1f873b972aa90716e1c58cd860c90a0d6b0a1481cf"
+    },
+    {
+      "path": "docs/localization.md",
+      "bytes": 3463,
+      "sha256": "e8f9223a5e6e48c343b0c99ff379e690aaacba46017549c645cf942160b5fe57"
+    },
+    {
+      "path": "scripts/localization/app-info.json",
+      "bytes": 4761,
+      "sha256": "7f7b5694343c6432ef0eeac8e14c565dbe1527adda778d9b535adac5d553e452"
+    },
+    {
+      "path": "scripts/localization/check-catalogs.py",
+      "bytes": 5033,
+      "sha256": "248f66da1ca4a24af60d48c3ddfb79f3a5bde8b084f2982a4a611344fb8bab43"
+    },
+    {
+      "path": "scripts/localization/collect-source-keys.py",
+      "bytes": 2859,
+      "sha256": "383d5775e8993bd7cc21ed6f6fadfb64a5912f71f9619d98532b44e8d16e4c7c"
+    },
+    {
+      "path": "scripts/localization/context-overrides.json",
+      "bytes": 47720,
+      "sha256": "0c962bee80c6bfaf5da3eee0619dd1d50ddc94d08afaa550643da39807e1728b"
+    },
+    {
+      "path": "scripts/localization/english-overrides.json",
+      "bytes": 16183,
+      "sha256": "2a4f1098d13d7fcac0d5bc2d5bfa11b4e4a17fea97148c58d66473295d020893"
+    },
+    {
+      "path": "scripts/localization/english-ui.json",
+      "bytes": 15299,
+      "sha256": "2516f079467e935c92605ebf58f13794cfc8071540ecbdd92382a159d8842d6d"
+    },
+    {
+      "path": "scripts/localization/generate-catalogs.py",
+      "bytes": 4818,
+      "sha256": "36b0841d3abb1924aec1748ee48acee1a19a6a1cbe4fcb07a3aff31c4b306b9c"
+    },
+    {
+      "path": "scripts/localization/localize-swift.swift",
+      "bytes": 10995,
+      "sha256": "9b739b127a589a0d49dc615df65c389f2d407984b665d8819226d757a3441e77"
+    },
+    {
+      "path": "scripts/localization/package-resources.py",
+      "bytes": 2796,
+      "sha256": "27d5989d88f9efc9bb7248e3d2f4da725bc7e52a5f06997d4d51a059f01c9945"
+    },
+    {
+      "path": "scripts/localization/simplify-catalog.swift",
+      "bytes": 1612,
+      "sha256": "a57c567ecc13f0226dff062eacec050db83c3a5a77817530acac83a6999897fe"
+    },
+    {
+      "path": "scripts/localization/translate-catalog.swift",
+      "bytes": 2273,
+      "sha256": "db37713fb62d3d4d9c4e9b739b5ca9b13b349d302f9f653eb73bb537590064d4"
+    }
+  ]
+}

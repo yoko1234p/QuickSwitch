@@ -1,0 +1,92 @@
+{
+  "CaptureText": {
+    "NSScreenCaptureUsageDescription": {
+      "en": "CaptureText recognizes text in the screen area you select, locally on this Mac.",
+      "zh-Hant": "CaptureText 在此 Mac 本機辨認你框選嘅螢幕文字。",
+      "zh-Hans": "CaptureText 在此 Mac 本机识别你框选的屏幕文字。"
+    }
+  },
+  "QuickSwitch": {
+    "NSAppleEventsUsageDescription": {
+      "en": "QuickSwitch changes appearance, Dock and music settings, or empties the Trash, only when you request it.",
+      "zh-Hant": "QuickSwitch 按你的操作切換外觀、Dock、音樂及清空垃圾桶。",
+      "zh-Hans": "QuickSwitch 根据你的操作切换外观、Dock、音乐及清空废纸篓。"
+    },
+    "NSBluetoothAlwaysUsageDescription": {
+      "en": "QuickSwitch reads paired headphones and connects or disconnects them when you request it.",
+      "zh-Hant": "QuickSwitch 讀取已配對耳機，並按你的操作連線或斷線。",
+      "zh-Hans": "QuickSwitch 读取已配对耳机，并根据你的操作连接或断开连接。"
+    },
+    "NSFocusStatusUsageDescription": {
+      "en": "QuickSwitch displays your current Focus status.",
+      "zh-Hant": "QuickSwitch 顯示目前專注模式狀態。",
+      "zh-Hans": "QuickSwitch 显示当前专注模式状态。"
+    }
+  },
+  "SuperPilot": {
+    "NSAppleEventsUsageDescription": {
+      "en": "SuperPilot uses Apple Events for Finder file commands, selected Notes or Mail links, and system actions you request.",
+      "zh-Hant": "SuperPilot 使用 Apple Events 執行你要求嘅 Finder 檔案操作、Notes 或 Mail 選取項目連結，以及系統操作。",
+      "zh-Hans": "SuperPilot 使用 Apple Events 执行你要求的 Finder 文件操作、Notes 或 Mail 所选项目链接，以及系统操作。"
+    }
+  },
+  "NotchHub": {
+    "NSAppleEventsUsageDescription": {
+      "en": "NotchHub controls Music and Spotify playback and reads the unread count from Apple Mail when requested.",
+      "zh-Hant": "NotchHub 按你的操作控制 Music 同 Spotify 播放，並讀取 Apple Mail 未讀數量。",
+      "zh-Hans": "NotchHub 根据你的操作控制 Music 和 Spotify 播放，并读取 Apple Mail 未读数量。"
+    },
+    "NSBluetoothAlwaysUsageDescription": {
+      "en": "NotchHub shows a notch notification when Bluetooth devices connect or disconnect.",
+      "zh-Hant": "NotchHub 在藍牙裝置連線或斷線時顯示劉海通知。",
+      "zh-Hans": "NotchHub 在蓝牙设备连接或断开时显示刘海通知。"
+    },
+    "NSCalendarsFullAccessUsageDescription": {
+      "en": "NotchHub shows your upcoming calendar events.",
+      "zh-Hant": "NotchHub 顯示你即將開始嘅日曆活動。",
+      "zh-Hans": "NotchHub 显示你即将开始的日历日程。"
+    },
+    "NSCameraUsageDescription": {
+      "en": "NotchHub uses the camera for the notch mirror you open.",
+      "zh-Hant": "NotchHub 使用相機顯示你開啟嘅劉海鏡子。",
+      "zh-Hans": "NotchHub 使用相机显示你打开的刘海镜子。"
+    },
+    "NSLocationWhenInUseUsageDescription": {
+      "en": "NotchHub uses your location for local weather.",
+      "zh-Hant": "NotchHub 使用你嘅位置顯示當地天氣。",
+      "zh-Hans": "NotchHub 使用你的位置显示当地天气。"
+    },
+    "NSMicrophoneUsageDescription": {
+      "en": "Record audio only after you start dictation.",
+      "zh-Hant": "在你啟動聽寫後錄製語音。",
+      "zh-Hans": "在你启动听写后录制语音。"
+    },
+    "NSPhotoLibraryUsageDescription": {
+      "en": "Display the photos you choose.",
+      "zh-Hant": "顯示你選擇的照片。",
+      "zh-Hans": "显示你选择的照片。"
+    },
+    "NSRemindersFullAccessUsageDescription": {
+      "en": "Manage your reminders in NotchHub.",
+      "zh-Hant": "在 NotchHub 管理你的提醒事項。",
+      "zh-Hans": "在 NotchHub 管理你的提醒事项。"
+    },
+    "NSSpeechRecognitionUsageDescription": {
+      "en": "Convert your speech into text when you start dictation.",
+      "zh-Hant": "在你啟動聽寫後將語音轉成文字。",
+      "zh-Hans": "在你启动听写后将语音转换成文字。"
+    }
+  },
+  "SelectionBar": {
+    "NSAppleEventsUsageDescription": {
+      "en": "Run the extension action you select to automate another app.",
+      "zh-Hant": "執行你選擇嘅擴充動作，以操作其他 App。",
+      "zh-Hans": "执行你选择的扩展操作，以操作其他 App。"
+    },
+    "NSRemindersFullAccessUsageDescription": {
+      "en": "Allow the extension action you select to work with Reminders.",
+      "zh-Hant": "允許你選擇嘅擴充動作使用提醒事項。",
+      "zh-Hans": "允许你选择的扩展操作使用提醒事项。"
+    }
+  }
+}

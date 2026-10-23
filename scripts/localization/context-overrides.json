@@ -1,0 +1,1573 @@
+{
+  "NotchHub": {
+    "calendar.day": {
+      "en": "Day",
+      "zh-Hant": "日",
+      "zh-Hans": "日"
+    },
+    "calendar.week": {
+      "en": "Week",
+      "zh-Hant": "週",
+      "zh-Hans": "周"
+    },
+    "calendar.month": {
+      "en": "Month",
+      "zh-Hant": "月",
+      "zh-Hans": "月"
+    },
+    "calendar.year": {
+      "en": "Year",
+      "zh-Hant": "年",
+      "zh-Hans": "年"
+    },
+    "weekday.sun": {
+      "en": "Sun",
+      "zh-Hant": "日",
+      "zh-Hans": "日"
+    },
+    "weekday.mon": {
+      "en": "Mon",
+      "zh-Hant": "一",
+      "zh-Hans": "一"
+    },
+    "weekday.tue": {
+      "en": "Tue",
+      "zh-Hant": "二",
+      "zh-Hans": "二"
+    },
+    "weekday.wed": {
+      "en": "Wed",
+      "zh-Hant": "三",
+      "zh-Hans": "三"
+    },
+    "weekday.thu": {
+      "en": "Thu",
+      "zh-Hant": "四",
+      "zh-Hans": "四"
+    },
+    "weekday.fri": {
+      "en": "Fri",
+      "zh-Hant": "五",
+      "zh-Hans": "五"
+    },
+    "weekday.sat": {
+      "en": "Sat",
+      "zh-Hant": "六",
+      "zh-Hans": "六"
+    },
+    "Shelf": {
+      "en": "Shelf",
+      "zh-Hant": "暫存架",
+      "zh-Hans": "暂存架"
+    },
+    "Glass": {
+      "en": "Glass",
+      "zh-Hant": "玻璃",
+      "zh-Hans": "玻璃"
+    },
+    "Shortcuts": {
+      "en": "Shortcuts",
+      "zh-Hant": "捷徑",
+      "zh-Hans": "捷径"
+    },
+    "Behavior": {
+      "en": "Behavior",
+      "zh-Hant": "行為",
+      "zh-Hans": "行为"
+    },
+    "Open on hover": {
+      "en": "Open on hover",
+      "zh-Hant": "滑鼠停留時展開",
+      "zh-Hans": "鼠标停留时展开"
+    },
+    "Hover delay": {
+      "en": "Hover delay",
+      "zh-Hant": "停留延遲",
+      "zh-Hans": "停留延迟"
+    },
+    "Haptic feedback": {
+      "en": "Haptic feedback",
+      "zh-Hant": "觸覺回饋",
+      "zh-Hans": "触觉回馈"
+    },
+    "Displays": {
+      "en": "Displays",
+      "zh-Hant": "顯示器",
+      "zh-Hans": "显示器"
+    },
+    "Show on all displays": {
+      "en": "Show on all displays",
+      "zh-Hant": "在所有顯示器顯示",
+      "zh-Hans": "在所有显示器显示"
+    },
+    "Simulate notch on external displays": {
+      "en": "Simulate notch on external displays",
+      "zh-Hant": "在外接顯示器模擬劉海",
+      "zh-Hans": "在外接显示器模拟刘海"
+    },
+    "System": {
+      "en": "System",
+      "zh-Hant": "系統",
+      "zh-Hans": "系统"
+    },
+    "Launch at login": {
+      "en": "Launch at login",
+      "zh-Hant": "登入時啟動",
+      "zh-Hans": "登入时启动"
+    },
+    "Toggle shortcut": {
+      "en": "Toggle shortcut",
+      "zh-Hant": "開關快捷鍵",
+      "zh-Hans": "开关快捷键"
+    },
+    "Version": {
+      "en": "Version",
+      "zh-Hant": "版本",
+      "zh-Hans": "版本"
+    },
+    "Quit NotchHub": {
+      "en": "Quit NotchHub",
+      "zh-Hant": "結束 NotchHub",
+      "zh-Hans": "结束 NotchHub"
+    },
+    "Background": {
+      "en": "Background",
+      "zh-Hant": "背景",
+      "zh-Hans": "背景"
+    },
+    "Style": {
+      "en": "Style",
+      "zh-Hant": "樣式",
+      "zh-Hans": "样式"
+    },
+    "Pure black": {
+      "en": "Pure black",
+      "zh-Hant": "純黑",
+      "zh-Hans": "纯黑"
+    },
+    "Gradient": {
+      "en": "Gradient",
+      "zh-Hant": "漸層",
+      "zh-Hans": "渐层"
+    },
+    "Tinted by artwork": {
+      "en": "Tinted by artwork",
+      "zh-Hant": "依封面著色",
+      "zh-Hans": "依封面着色"
+    },
+    "Gradient top": {
+      "en": "Gradient top",
+      "zh-Hant": "漸層頂部",
+      "zh-Hans": "渐层顶部"
+    },
+    "Gradient bottom": {
+      "en": "Gradient bottom",
+      "zh-Hant": "漸層底部",
+      "zh-Hans": "渐层底部"
+    },
+    "Accent": {
+      "en": "Accent",
+      "zh-Hant": "強調色",
+      "zh-Hans": "强调色"
+    },
+    "Accent color": {
+      "en": "Accent color",
+      "zh-Hant": "強調色",
+      "zh-Hans": "强调色"
+    },
+    "Border glow": {
+      "en": "Border glow",
+      "zh-Hant": "邊框光暈",
+      "zh-Hans": "边框光晕"
+    },
+    "Open nook size": {
+      "en": "Open nook size",
+      "zh-Hant": "展開面板大小",
+      "zh-Hans": "展开面板大小"
+    },
+    "Width": {
+      "en": "Width",
+      "zh-Hant": "寬度",
+      "zh-Hans": "宽度"
+    },
+    "Height": {
+      "en": "Height",
+      "zh-Hant": "高度",
+      "zh-Hans": "高度"
+    },
+    "Corner radius": {
+      "en": "Corner radius",
+      "zh-Hant": "圓角半徑",
+      "zh-Hans": "圆角半径"
+    },
+    "Tabs": {
+      "en": "Tabs",
+      "zh-Hant": "分頁",
+      "zh-Hans": "分页"
+    },
+    "Default tab": {
+      "en": "Default tab",
+      "zh-Hant": "預設分頁",
+      "zh-Hans": "默认分页"
+    },
+    "Home tab": {
+      "en": "Home tab",
+      "zh-Hant": "主頁",
+      "zh-Hans": "主页"
+    },
+    "Layout": {
+      "en": "Layout",
+      "zh-Hant": "佈局",
+      "zh-Hans": "布局"
+    },
+    "Media + Calendar": {
+      "en": "Media + Calendar",
+      "zh-Hant": "媒體及日曆",
+      "zh-Hans": "媒体及日历"
+    },
+    "Media only": {
+      "en": "Media only",
+      "zh-Hant": "僅媒體",
+      "zh-Hans": "仅媒体"
+    },
+    "Calendar only": {
+      "en": "Calendar only",
+      "zh-Hant": "僅日曆",
+      "zh-Hans": "仅日历"
+    },
+    "Now playing": {
+      "en": "Now playing",
+      "zh-Hant": "播放中",
+      "zh-Hans": "播放中"
+    },
+    "Timers": {
+      "en": "Timers",
+      "zh-Hant": "計時器",
+      "zh-Hans": "计时器"
+    },
+    "Agent sessions": {
+      "en": "Agent sessions",
+      "zh-Hant": "代理工作階段",
+      "zh-Hans": "代理工作阶段"
+    },
+    "Upcoming calendar event": {
+      "en": "Upcoming calendar event",
+      "zh-Hant": "即將開始的日程",
+      "zh-Hans": "即将开始的日程"
+    },
+    "Close Nook": {
+      "en": "Close Nook",
+      "zh-Hant": "收起面板",
+      "zh-Hans": "收起面板"
+    },
+    "Open Nook": {
+      "en": "Open Nook",
+      "zh-Hant": "展開面板",
+      "zh-Hans": "展开面板"
+    },
+    "Settings…": {
+      "en": "Settings…",
+      "zh-Hant": "設定…",
+      "zh-Hans": "设定…"
+    },
+    "Show unmirrored": {
+      "en": "Show unmirrored",
+      "zh-Hant": "顯示原始方向",
+      "zh-Hans": "显示原始方向"
+    },
+    "Show mirrored": {
+      "en": "Show mirrored",
+      "zh-Hant": "顯示鏡像",
+      "zh-Hans": "显示镜像"
+    },
+    "Choose camera": {
+      "en": "Choose camera",
+      "zh-Hant": "選擇相機",
+      "zh-Hans": "选择相机"
+    },
+    "Camera access needed": {
+      "en": "Camera access needed",
+      "zh-Hant": "需要相機權限",
+      "zh-Hans": "需要相机权限"
+    },
+    "NotchHub uses the camera only to show this mirror.": {
+      "en": "NotchHub uses the camera only to show this mirror.",
+      "zh-Hant": "NotchHub 只會使用相機顯示鏡子。",
+      "zh-Hans": "NotchHub 只会使用相机显示镜子。"
+    },
+    "Enable Camera": {
+      "en": "Enable Camera",
+      "zh-Hant": "啟用相機",
+      "zh-Hans": "启用相机"
+    },
+    "Camera access is off": {
+      "en": "Camera access is off",
+      "zh-Hant": "相機存取已關閉",
+      "zh-Hans": "相机存取已关闭"
+    },
+    "Allow camera access for NotchHub in System Settings to use the mirror.": {
+      "en": "Allow camera access for NotchHub in System Settings to use the mirror.",
+      "zh-Hant": "請在系統設定允許 NotchHub 使用相機，以使用鏡子。",
+      "zh-Hans": "请在系统设定允许 NotchHub 使用相机，以使用镜子。"
+    },
+    "Open System Settings": {
+      "en": "Open System Settings",
+      "zh-Hant": "開啟系統設定",
+      "zh-Hans": "打开系统设定"
+    },
+    "No camera found": {
+      "en": "No camera found",
+      "zh-Hant": "找不到相機",
+      "zh-Hans": "找不到相机"
+    },
+    "Connect a webcam, or bring your iPhone nearby to use Continuity Camera.": {
+      "en": "Connect a webcam, or bring your iPhone nearby to use Continuity Camera.",
+      "zh-Hant": "請接駁網絡攝影機，或將 iPhone 放在附近以使用接續互通相機。",
+      "zh-Hans": "请接驳网络摄影机，或将 iPhone 放在附近以使用接续互通相机。"
+    },
+    "Mirror": {
+      "en": "Mirror",
+      "zh-Hant": "鏡子",
+      "zh-Hans": "镜子"
+    },
+    "Default camera": {
+      "en": "Default camera",
+      "zh-Hant": "預設相機",
+      "zh-Hans": "默认相机"
+    },
+    "Automatic": {
+      "en": "Automatic",
+      "zh-Hant": "自動",
+      "zh-Hans": "自动"
+    },
+    "Last selected camera (disconnected)": {
+      "en": "Last selected camera (disconnected)",
+      "zh-Hant": "上次選擇的相機（已中斷連線）",
+      "zh-Hans": "上次选择的相机（已中断连接）"
+    },
+    "Camera access": {
+      "en": "Camera access",
+      "zh-Hant": "相機存取",
+      "zh-Hans": "相机存取"
+    },
+    "Camera access is currently disabled for NotchHub, so the mirror can't show a preview.": {
+      "en": "Camera access is currently disabled for NotchHub, so the mirror can't show a preview.",
+      "zh-Hant": "NotchHub 的相機存取已關閉，因此無法顯示鏡子預覽。",
+      "zh-Hans": "NotchHub 的相机存取已关闭，因此无法显示镜子预览。"
+    },
+    "Volume %1$@ percent": {
+      "en": "Volume %1$@ percent",
+      "zh-Hant": "音量百分之 %1$@",
+      "zh-Hans": "音量百分之 %1$@"
+    },
+    "Muted": {
+      "en": "Muted",
+      "zh-Hant": "已靜音",
+      "zh-Hans": "已静音"
+    },
+    "Brightness": {
+      "en": "Brightness",
+      "zh-Hant": "亮度",
+      "zh-Hans": "亮度"
+    },
+    "Volume": {
+      "en": "Volume",
+      "zh-Hant": "音量",
+      "zh-Hans": "音量"
+    },
+    "Replace system HUD": {
+      "en": "Replace system HUD",
+      "zh-Hant": "取代系統提示面板",
+      "zh-Hans": "取代系统提示面板"
+    },
+    "System HUD": {
+      "en": "System HUD",
+      "zh-Hant": "系統提示面板",
+      "zh-Hans": "系统提示面板"
+    },
+    "Show HUD when volume changes externally": {
+      "en": "Show HUD when volume changes externally",
+      "zh-Hant": "其他來源改變音量時顯示提示",
+      "zh-Hans": "其他来源改变音量时显示提示"
+    },
+    "External changes": {
+      "en": "External changes",
+      "zh-Hant": "外部變更",
+      "zh-Hans": "外部变更"
+    },
+    "Accessibility access granted": {
+      "en": "Accessibility access granted",
+      "zh-Hant": "已允許輔助使用",
+      "zh-Hans": "已允许辅助使用"
+    },
+    "Accessibility access is required to intercept media keys": {
+      "en": "Accessibility access is required to intercept media keys",
+      "zh-Hant": "攔截媒體按鍵需要輔助使用權限",
+      "zh-Hans": "拦截媒体按键需要辅助使用权限"
+    },
+    "Grant Access…": {
+      "en": "Grant Access…",
+      "zh-Hant": "授予權限…",
+      "zh-Hans": "授予权限…"
+    },
+    "Context %1$@%": {
+      "en": "Context %1$@%",
+      "zh-Hant": "上下文 %1$@%",
+      "zh-Hans": "上下文 %1$@%"
+    },
+    "All clear": {
+      "en": "All clear",
+      "zh-Hant": "全部完成",
+      "zh-Hans": "全部完成"
+    },
+    "Press Return to add a to-do": {
+      "en": "Press Return to add a to-do",
+      "zh-Hant": "按 Return 新增待辦事項",
+      "zh-Hans": "按 Return 新增待办事项"
+    },
+    "Archived": {
+      "en": "Archived",
+      "zh-Hant": "已封存",
+      "zh-Hans": "已封存"
+    },
+    "Mark as open": {
+      "en": "Mark as open",
+      "zh-Hant": "標示為未完成",
+      "zh-Hans": "标示为未完成"
+    },
+    "Mark as done": {
+      "en": "Mark as done",
+      "zh-Hant": "標示為完成",
+      "zh-Hans": "标示为完成"
+    },
+    "Remove from favorites": {
+      "en": "Remove from favorites",
+      "zh-Hant": "從喜好項目移除",
+      "zh-Hans": "从喜好项目移除"
+    },
+    "Pin to top": {
+      "en": "Pin to top",
+      "zh-Hant": "置頂",
+      "zh-Hans": "置顶"
+    },
+    "Delete": {
+      "en": "Delete",
+      "zh-Hant": "刪除",
+      "zh-Hans": "删除"
+    },
+    "Mark as Open": {
+      "en": "Mark as Open",
+      "zh-Hant": "標示為未完成",
+      "zh-Hans": "标示为未完成"
+    },
+    "Mark as Done": {
+      "en": "Mark as Done",
+      "zh-Hant": "標示為完成",
+      "zh-Hans": "标示为完成"
+    },
+    "Remove Favorite": {
+      "en": "Remove Favorite",
+      "zh-Hant": "移除喜好項目",
+      "zh-Hans": "移除喜好项目"
+    },
+    "Favorite": {
+      "en": "Favorite",
+      "zh-Hant": "喜好項目",
+      "zh-Hans": "喜好项目"
+    },
+    "Restore": {
+      "en": "Restore",
+      "zh-Hant": "還原",
+      "zh-Hans": "恢复"
+    },
+    "Delete permanently": {
+      "en": "Delete permanently",
+      "zh-Hant": "永久刪除",
+      "zh-Hans": "永久删除"
+    },
+    "After 1 hour": {
+      "en": "After 1 hour",
+      "zh-Hant": "1 小時後",
+      "zh-Hans": "1 小时后"
+    },
+    "After 6 hours": {
+      "en": "After 6 hours",
+      "zh-Hant": "6 小時後",
+      "zh-Hans": "6 小时后"
+    },
+    "After 12 hours": {
+      "en": "After 12 hours",
+      "zh-Hant": "12 小時後",
+      "zh-Hans": "12 小时后"
+    },
+    "After 24 hours": {
+      "en": "After 24 hours",
+      "zh-Hant": "24 小時後",
+      "zh-Hans": "24 小时后"
+    },
+    "After 2 days": {
+      "en": "After 2 days",
+      "zh-Hant": "2 日後",
+      "zh-Hans": "2 日后"
+    },
+    "After 1 week": {
+      "en": "After 1 week",
+      "zh-Hant": "1 星期後",
+      "zh-Hans": "1 星期后"
+    },
+    "Never": {
+      "en": "Never",
+      "zh-Hant": "永不",
+      "zh-Hans": "永不"
+    },
+    "Show archived section in widget": {
+      "en": "Show archived section in widget",
+      "zh-Hant": "在小工具顯示封存區",
+      "zh-Hans": "在小工具显示封存区"
+    },
+    "Archive": {
+      "en": "Archive",
+      "zh-Hant": "封存",
+      "zh-Hans": "封存"
+    },
+    "Archived items": {
+      "en": "Archived items",
+      "zh-Hant": "已封存項目",
+      "zh-Hans": "已封存项目"
+    },
+    "Clear Archive": {
+      "en": "Clear Archive",
+      "zh-Hant": "清空封存",
+      "zh-Hans": "清空封存"
+    },
+    "Open shelf when dragging files toward the notch": {
+      "en": "Open shelf when dragging files toward the notch",
+      "zh-Hant": "將檔案拖向劉海時開啟暫存架",
+      "zh-Hans": "将文件拖向刘海时打开暂存架"
+    },
+    "Remove items after dragging them out": {
+      "en": "Remove items after dragging them out",
+      "zh-Hant": "拖出項目後自動移除",
+      "zh-Hans": "拖出项目后自动移除"
+    },
+    "Clear shelf when quitting": {
+      "en": "Clear shelf when quitting",
+      "zh-Hant": "結束時清空暫存架",
+      "zh-Hans": "结束时清空暂存架"
+    },
+    "Drop files, links or text to AirDrop them": {
+      "en": "Drop files, links or text to AirDrop them",
+      "zh-Hant": "拖入檔案、連結或文字以 AirDrop 傳送",
+      "zh-Hans": "拖入文件、连结或文字以 AirDrop 传送"
+    },
+    "AirDrop drop zone": {
+      "en": "AirDrop drop zone",
+      "zh-Hant": "AirDrop 拖放區",
+      "zh-Hans": "AirDrop 拖放区"
+    },
+    "Drop files here": {
+      "en": "Drop files here",
+      "zh-Hant": "將檔案拖到這裡",
+      "zh-Hans": "将文件拖到这里"
+    },
+    "Files, links and text land on the shelf.": {
+      "en": "Files, links and text land on the shelf.",
+      "zh-Hant": "在暫存架放置檔案、連結及文字。",
+      "zh-Hans": "在暂存架放置文件、连结及文字。"
+    },
+    "Paste from Clipboard": {
+      "en": "Paste from Clipboard",
+      "zh-Hant": "從剪貼簿貼上",
+      "zh-Hans": "从剪贴板粘贴"
+    },
+    "Collapse into stack": {
+      "en": "Collapse into stack",
+      "zh-Hant": "收起為堆疊",
+      "zh-Hans": "收起为堆叠"
+    },
+    "Show all items": {
+      "en": "Show all items",
+      "zh-Hant": "顯示所有項目",
+      "zh-Hans": "显示所有项目"
+    },
+    "Paste from clipboard": {
+      "en": "Paste from clipboard",
+      "zh-Hant": "從剪貼簿貼上",
+      "zh-Hans": "从剪贴板粘贴"
+    },
+    "Clear shelf": {
+      "en": "Clear shelf",
+      "zh-Hant": "清空暫存架",
+      "zh-Hans": "清空暂存架"
+    },
+    "Show all": {
+      "en": "Show all",
+      "zh-Hant": "顯示全部",
+      "zh-Hans": "显示全部"
+    },
+    "Expand the stack": {
+      "en": "Expand the stack",
+      "zh-Hant": "展開堆疊",
+      "zh-Hans": "展开堆叠"
+    },
+    "Open": {
+      "en": "Open",
+      "zh-Hant": "開啟",
+      "zh-Hans": "打开"
+    },
+    "Quick Look": {
+      "en": "Quick Look",
+      "zh-Hant": "快速查看",
+      "zh-Hans": "快速查看"
+    },
+    "Reveal in Finder": {
+      "en": "Reveal in Finder",
+      "zh-Hant": "在 Finder 顯示",
+      "zh-Hans": "在 Finder 显示"
+    },
+    "Share…": {
+      "en": "Share…",
+      "zh-Hant": "分享…",
+      "zh-Hans": "分享…"
+    },
+    "Copy": {
+      "en": "Copy",
+      "zh-Hant": "複製",
+      "zh-Hans": "复制"
+    },
+    "Remove": {
+      "en": "Remove",
+      "zh-Hant": "移除",
+      "zh-Hans": "移除"
+    },
+    "Battery live activity": {
+      "en": "Battery live activity",
+      "zh-Hant": "電池即時動態",
+      "zh-Hans": "电池即时动态"
+    },
+    "Always show percentage": {
+      "en": "Always show percentage",
+      "zh-Hant": "總是顯示百分比",
+      "zh-Hans": "总是显示百分比"
+    },
+    "Low battery alerts": {
+      "en": "Low battery alerts",
+      "zh-Hant": "低電量提示",
+      "zh-Hans": "低电量提示"
+    },
+    "Battery": {
+      "en": "Battery",
+      "zh-Hant": "電池",
+      "zh-Hans": "电池"
+    },
+    "Bluetooth live activity": {
+      "en": "Bluetooth live activity",
+      "zh-Hant": "藍牙即時動態",
+      "zh-Hans": "蓝牙即时动态"
+    },
+    "Bluetooth access is disabled for NotchHub, so device events can't be detected.": {
+      "en": "Bluetooth access is disabled for NotchHub, so device events can't be detected.",
+      "zh-Hant": "NotchHub 的藍牙存取已關閉，因此無法偵測裝置事件。",
+      "zh-Hans": "NotchHub 的蓝牙存取已关闭，因此无法侦测装置事件。"
+    },
+    "Open Privacy Settings…": {
+      "en": "Open Privacy Settings…",
+      "zh-Hant": "開啟私隱設定…",
+      "zh-Hans": "打开私隐设定…"
+    },
+    "Connected now": {
+      "en": "Connected now",
+      "zh-Hant": "目前已連接",
+      "zh-Hans": "目前已连接"
+    },
+    "Bluetooth": {
+      "en": "Bluetooth",
+      "zh-Hant": "藍牙",
+      "zh-Hans": "蓝牙"
+    },
+    "Shows device connect and disconnect events beside the notch.": {
+      "en": "Shows device connect and disconnect events beside the notch.",
+      "zh-Hant": "在劉海旁顯示裝置連接及中斷事件。",
+      "zh-Hans": "在刘海旁显示装置连接及中断事件。"
+    },
+    "Now Playing": {
+      "en": "Now Playing",
+      "zh-Hant": "播放中",
+      "zh-Hans": "播放中"
+    },
+    "Show media controls": {
+      "en": "Show media controls",
+      "zh-Hant": "顯示媒體控制",
+      "zh-Hans": "显示媒体控制"
+    },
+    "Show media from": {
+      "en": "Show media from",
+      "zh-Hant": "顯示以下來源的媒體",
+      "zh-Hans": "显示以下来源的媒体"
+    },
+    "Audio visualizer in the notch": {
+      "en": "Audio visualizer in the notch",
+      "zh-Hant": "在劉海顯示音訊視覺效果",
+      "zh-Hans": "在刘海显示音讯视觉效果"
+    },
+    "Status": {
+      "en": "Status",
+      "zh-Hant": "狀態",
+      "zh-Hans": "状态"
+    },
+    "MediaRemote adapter available": {
+      "en": "MediaRemote adapter available",
+      "zh-Hant": "MediaRemote 配接器可用",
+      "zh-Hans": "MediaRemote 配接器可用"
+    },
+    "MediaRemote adapter not bundled — using app-specific fallback only": {
+      "en": "MediaRemote adapter not bundled — using app-specific fallback only",
+      "zh-Hant": "未包含 MediaRemote 配接器，僅使用個別 App 的後備控制",
+      "zh-Hans": "未包含 MediaRemote 配接器，仅使用个别 App 的后备控制"
+    },
+    "Open Settings": {
+      "en": "Open Settings",
+      "zh-Hant": "開啟設定",
+      "zh-Hans": "打开设定"
+    },
+    "Unknown title": {
+      "en": "Unknown title",
+      "zh-Hant": "未知標題",
+      "zh-Hans": "未知标题"
+    },
+    "Nothing playing": {
+      "en": "Nothing playing",
+      "zh-Hant": "未有播放內容",
+      "zh-Hans": "未有播放内容"
+    },
+    "Play something in Music, Spotify, or your browser": {
+      "en": "Play something in Music, Spotify, or your browser",
+      "zh-Hant": "在音樂、Spotify 或瀏覽器播放內容",
+      "zh-Hans": "在音乐、Spotify 或浏览器播放内容"
+    },
+    "MediaRemote adapter not bundled — only Spotify / Apple Music will be detected": {
+      "en": "MediaRemote adapter not bundled — only Spotify / Apple Music will be detected",
+      "zh-Hant": "未包含 MediaRemote 配接器，只會偵測 Spotify 及 Apple Music",
+      "zh-Hans": "未包含 MediaRemote 配接器，只会侦测 Spotify 及 Apple Music"
+    },
+    "Media controls are off": {
+      "en": "Media controls are off",
+      "zh-Hant": "媒體控制已關閉",
+      "zh-Hans": "媒体控制已关闭"
+    },
+    "Enable": {
+      "en": "Enable",
+      "zh-Hant": "啟用",
+      "zh-Hans": "启用"
+    },
+    "Notes": {
+      "en": "Notes",
+      "zh-Hant": "筆記",
+      "zh-Hans": "笔记"
+    },
+    "New note": {
+      "en": "New note",
+      "zh-Hant": "新增筆記",
+      "zh-Hans": "新增笔记"
+    },
+    "Duplicate": {
+      "en": "Duplicate",
+      "zh-Hant": "製作副本",
+      "zh-Hans": "制作副本"
+    },
+    "Copy Text": {
+      "en": "Copy Text",
+      "zh-Hant": "複製文字",
+      "zh-Hans": "复制文字"
+    },
+    "No notes yet": {
+      "en": "No notes yet",
+      "zh-Hant": "尚未有筆記",
+      "zh-Hans": "尚未有笔记"
+    },
+    "Edited %1$@": {
+      "en": "Edited %1$@",
+      "zh-Hant": "編輯於 %1$@",
+      "zh-Hans": "编辑于 %1$@"
+    },
+    "Copy note": {
+      "en": "Copy note",
+      "zh-Hant": "複製筆記",
+      "zh-Hans": "复制笔记"
+    },
+    "Delete note": {
+      "en": "Delete note",
+      "zh-Hant": "刪除筆記",
+      "zh-Hans": "删除笔记"
+    },
+    "Start typing…": {
+      "en": "Start typing…",
+      "zh-Hant": "開始輸入…",
+      "zh-Hans": "开始输入…"
+    },
+    "Jot something down": {
+      "en": "Jot something down",
+      "zh-Hant": "記下想法",
+      "zh-Hans": "记下想法"
+    },
+    "No note selected": {
+      "en": "No note selected",
+      "zh-Hant": "尚未選擇筆記",
+      "zh-Hans": "尚未选择笔记"
+    },
+    "New Note": {
+      "en": "New Note",
+      "zh-Hant": "新增筆記",
+      "zh-Hans": "新增笔记"
+    },
+    "Editor": {
+      "en": "Editor",
+      "zh-Hant": "編輯器",
+      "zh-Hans": "编辑器"
+    },
+    "Font size": {
+      "en": "Font size",
+      "zh-Hant": "字體大小",
+      "zh-Hans": "字体大小"
+    },
+    "Note list": {
+      "en": "Note list",
+      "zh-Hant": "筆記清單",
+      "zh-Hans": "笔记清单"
+    },
+    "Sort notes by": {
+      "en": "Sort notes by",
+      "zh-Hant": "筆記排序",
+      "zh-Hans": "笔记排序"
+    },
+    "Storage": {
+      "en": "Storage",
+      "zh-Hant": "儲存空間",
+      "zh-Hans": "保存空间"
+    },
+    "Reveal Notes File in Finder": {
+      "en": "Reveal Notes File in Finder",
+      "zh-Hant": "在 Finder 顯示筆記檔案",
+      "zh-Hans": "在 Finder 显示笔记文件"
+    },
+    "Shortcuts widget": {
+      "en": "Shortcuts widget",
+      "zh-Hant": "捷徑小工具",
+      "zh-Hans": "捷径小工具"
+    },
+    "Refresh": {
+      "en": "Refresh",
+      "zh-Hant": "重新整理",
+      "zh-Hans": "重新整理"
+    },
+    "Show All": {
+      "en": "Show All",
+      "zh-Hant": "顯示全部",
+      "zh-Hans": "显示全部"
+    },
+    "Hiding a shortcut only removes it from the notch widget — it stays available in the Shortcuts app.": {
+      "en": "Hiding a shortcut only removes it from the notch widget — it stays available in the Shortcuts app.",
+      "zh-Hant": "隱藏捷徑只會從劉海小工具移除，仍可在「捷徑」App 使用。",
+      "zh-Hans": "隐藏捷径只会从刘海小工具移除，仍可在「捷径」App 使用。"
+    },
+    "Loading shortcut list…": {
+      "en": "Loading shortcut list…",
+      "zh-Hant": "正在載入捷徑清單…",
+      "zh-Hans": "正在载入捷径清单…"
+    },
+    "Shortcuts CLI not found on this Mac": {
+      "en": "Shortcuts CLI not found on this Mac",
+      "zh-Hant": "此 Mac 未找到捷徑命令列工具",
+      "zh-Hans": "此 Mac 未找到捷径命令列工具"
+    },
+    "No shortcuts found.": {
+      "en": "No shortcuts found.",
+      "zh-Hant": "找不到捷徑。",
+      "zh-Hans": "找不到捷径。"
+    },
+    "Open Shortcuts App": {
+      "en": "Open Shortcuts App",
+      "zh-Hant": "開啟捷徑 App",
+      "zh-Hans": "打开捷径 App"
+    },
+    "Shown in widget": {
+      "en": "Shown in widget",
+      "zh-Hant": "在小工具顯示",
+      "zh-Hans": "在小工具显示"
+    },
+    "Filter shortcuts": {
+      "en": "Filter shortcuts",
+      "zh-Hant": "篩選捷徑",
+      "zh-Hans": "筛选捷径"
+    },
+    "No shortcut name contains “%1$@”.": {
+      "en": "No shortcut name contains “%1$@”.",
+      "zh-Hant": "沒有捷徑名稱包含「%1$@」。",
+      "zh-Hans": "没有捷径名称包含「%1$@」。"
+    },
+    "Add to favorites": {
+      "en": "Add to favorites",
+      "zh-Hant": "加入喜好項目",
+      "zh-Hans": "加入喜好项目"
+    },
+    "Refresh shortcut list": {
+      "en": "Refresh shortcut list",
+      "zh-Hant": "重新整理捷徑清單",
+      "zh-Hans": "重新整理捷径清单"
+    },
+    "Search": {
+      "en": "Search",
+      "zh-Hant": "搜尋",
+      "zh-Hans": "搜寻"
+    },
+    "Shortcuts Unavailable": {
+      "en": "Shortcuts Unavailable",
+      "zh-Hant": "捷徑無法使用",
+      "zh-Hans": "捷径无法使用"
+    },
+    "Try Again": {
+      "en": "Try Again",
+      "zh-Hant": "再試一次",
+      "zh-Hans": "再试一次"
+    },
+    "Couldn't Load Shortcuts": {
+      "en": "Couldn't Load Shortcuts",
+      "zh-Hant": "無法載入捷徑",
+      "zh-Hans": "无法载入捷径"
+    },
+    "Retry": {
+      "en": "Retry",
+      "zh-Hant": "重試",
+      "zh-Hans": "重试"
+    },
+    "Loading shortcuts…": {
+      "en": "Loading shortcuts…",
+      "zh-Hant": "正在載入捷徑…",
+      "zh-Hans": "正在载入捷径…"
+    },
+    "No Shortcuts Yet": {
+      "en": "No Shortcuts Yet",
+      "zh-Hant": "尚未有捷徑",
+      "zh-Hans": "尚未有捷径"
+    },
+    "Create shortcuts in the Shortcuts app and they will show up here.": {
+      "en": "Create shortcuts in the Shortcuts app and they will show up here.",
+      "zh-Hant": "在「捷徑」App 建立捷徑後，便會顯示於此。",
+      "zh-Hans": "在「捷径」App 建立捷径后，便会显示于此。"
+    },
+    "Open Shortcuts": {
+      "en": "Open Shortcuts",
+      "zh-Hant": "開啟捷徑",
+      "zh-Hans": "打开捷径"
+    },
+    "All Shortcuts Hidden": {
+      "en": "All Shortcuts Hidden",
+      "zh-Hant": "所有捷徑已隱藏",
+      "zh-Hans": "所有捷径已隐藏"
+    },
+    "Every shortcut is hidden. Show some again from NotchHub settings.": {
+      "en": "Every shortcut is hidden. Show some again from NotchHub settings.",
+      "zh-Hant": "所有捷徑已隱藏，請在 NotchHub 設定重新顯示。",
+      "zh-Hans": "所有捷径已隐藏，请在 NotchHub 设定重新显示。"
+    },
+    "Unhide All": {
+      "en": "Unhide All",
+      "zh-Hant": "全部取消隱藏",
+      "zh-Hans": "全部取消隐藏"
+    },
+    "No Matches": {
+      "en": "No Matches",
+      "zh-Hant": "沒有符合項目",
+      "zh-Hans": "没有符合项目"
+    },
+    "Clear Search": {
+      "en": "Clear Search",
+      "zh-Hant": "清除搜尋",
+      "zh-Hans": "清除搜寻"
+    },
+    "Run “%1$@”": {
+      "en": "Run “%1$@”",
+      "zh-Hant": "執行「%1$@」",
+      "zh-Hans": "执行「%1$@」"
+    },
+    "Remove from Favorites": {
+      "en": "Remove from Favorites",
+      "zh-Hant": "從喜好項目移除",
+      "zh-Hans": "从喜好项目移除"
+    },
+    "Add to Favorites": {
+      "en": "Add to Favorites",
+      "zh-Hant": "加入喜好項目",
+      "zh-Hans": "加入喜好项目"
+    },
+    "Hide from Widget": {
+      "en": "Hide from Widget",
+      "zh-Hant": "在小工具隱藏",
+      "zh-Hans": "在小工具隐藏"
+    },
+    "Favorite — floats to the top": {
+      "en": "Favorite — floats to the top",
+      "zh-Hant": "設為喜好項目並置頂",
+      "zh-Hans": "设为喜好项目并置顶"
+    },
+    "Events": {
+      "en": "Events",
+      "zh-Hant": "日程",
+      "zh-Hans": "日程"
+    },
+    "Select All": {
+      "en": "Select All",
+      "zh-Hant": "全選",
+      "zh-Hans": "全选"
+    },
+    "Deselect All": {
+      "en": "Deselect All",
+      "zh-Hant": "取消全選",
+      "zh-Hans": "取消全选"
+    },
+    "Calendars": {
+      "en": "Calendars",
+      "zh-Hant": "日曆",
+      "zh-Hans": "日历"
+    },
+    "Only events from selected calendars appear in the notch.": {
+      "en": "Only events from selected calendars appear in the notch.",
+      "zh-Hant": "劉海面板只會顯示所選日曆的日程。",
+      "zh-Hans": "刘海面板只会显示所选日历的日程。"
+    },
+    "Permission": {
+      "en": "Permission",
+      "zh-Hant": "權限",
+      "zh-Hans": "权限"
+    },
+    "Calendar access": {
+      "en": "Calendar access",
+      "zh-Hant": "日曆存取",
+      "zh-Hans": "日历存取"
+    },
+    "Enable…": {
+      "en": "Enable…",
+      "zh-Hant": "啟用…",
+      "zh-Hans": "启用…"
+    },
+    "Open System Settings…": {
+      "en": "Open System Settings…",
+      "zh-Hant": "開啟系統設定…",
+      "zh-Hans": "打开系统设定…"
+    },
+    "Today": {
+      "en": "Today",
+      "zh-Hant": "今日",
+      "zh-Hans": "今日"
+    },
+    "Previous day": {
+      "en": "Previous day",
+      "zh-Hant": "上一日",
+      "zh-Hans": "上一日"
+    },
+    "Next day": {
+      "en": "Next day",
+      "zh-Hant": "下一日",
+      "zh-Hans": "下一日"
+    },
+    "See your day at a glance right in the notch.": {
+      "en": "See your day at a glance right in the notch.",
+      "zh-Hant": "直接在劉海面板查看今日行程。",
+      "zh-Hans": "直接在刘海面板查看今日行程。"
+    },
+    "Enable Calendar Access": {
+      "en": "Enable Calendar Access",
+      "zh-Hant": "允許日曆存取",
+      "zh-Hans": "允许日历存取"
+    },
+    "Calendar access is turned off. Grant full access in System Settings to see your events.": {
+      "en": "Calendar access is turned off. Grant full access in System Settings to see your events.",
+      "zh-Hant": "日曆存取已關閉，請在系統設定允許完整存取以查看日程。",
+      "zh-Hans": "日历存取已关闭，请在系统设定允许完整存取以查看日程。"
+    },
+    "No events": {
+      "en": "No events",
+      "zh-Hant": "沒有日程",
+      "zh-Hans": "没有日程"
+    },
+    "Untitled Event": {
+      "en": "Untitled Event",
+      "zh-Hant": "未命名日程",
+      "zh-Hans": "未命名日程"
+    },
+    "All-day": {
+      "en": "All-day",
+      "zh-Hant": "全天",
+      "zh-Hans": "全天"
+    },
+    "Open in Calendar": {
+      "en": "Open in Calendar",
+      "zh-Hant": "在日曆開啟",
+      "zh-Hans": "在日历打开"
+    },
+    "None": {
+      "en": "None",
+      "zh-Hant": "無",
+      "zh-Hans": "无"
+    },
+    "Closed-notch live activities": {
+      "en": "Closed-notch live activities",
+      "zh-Hant": "面板收起時的即時動態",
+      "zh-Hans": "面板收起时的即时动态"
+    },
+    "Battery & charging": {
+      "en": "Battery & charging",
+      "zh-Hant": "電池及充電",
+      "zh-Hans": "电池及充电"
+    },
+    "Open to-dos count": {
+      "en": "Open to-dos count",
+      "zh-Hant": "未完成事項數目",
+      "zh-Hans": "未完成事项数目"
+    },
+    "Flip preview horizontally (mirror)": {
+      "en": "Flip preview horizontally (mirror)",
+      "zh-Hant": "水平翻轉預覽（鏡像）",
+      "zh-Hans": "水平翻转预览（镜像）"
+    },
+    "Volume, brightness and mute changes appear inside the notch instead of the system bezel. Media keys are intercepted while this is on; turning it off restores the standard macOS HUD immediately.": {
+      "en": "Volume, brightness and mute changes appear inside the notch instead of the system bezel. Media keys are intercepted while this is on; turning it off restores the standard macOS HUD immediately.",
+      "zh-Hant": "在劉海內顯示音量、亮度及靜音變更。啟用時會攔截媒體按鍵；關閉後即時恢復 macOS 標準提示面板。",
+      "zh-Hans": "在刘海内显示音量、亮度及静音变更。启用时会拦截媒体按键；关闭后即时恢复 macOS 标准提示面板。"
+    },
+    "Also shows the notch HUD when volume or mute is changed by another app, AirPods, an external keyboard, or the menu-bar slider.": {
+      "en": "Also shows the notch HUD when volume or mute is changed by another app, AirPods, an external keyboard, or the menu-bar slider.",
+      "zh-Hant": "其他 App、AirPods、外接鍵盤或選單列滑桿改變音量或靜音時，亦會顯示劉海提示。",
+      "zh-Hans": "其他 App、AirPods、外接键盘或菜单栏滑杆改变音量或静音时，亦会显示刘海提示。"
+    },
+    " tokens": {
+      "en": " tokens",
+      "zh-Hant": " 個 token",
+      "zh-Hans": " 个 token"
+    },
+    "English": {
+      "en": "English",
+      "zh-Hant": "英文",
+      "zh-Hans": "英文"
+    },
+    "To-dos": {
+      "en": "To-dos",
+      "zh-Hant": "待辦事項",
+      "zh-Hans": "待办事项"
+    },
+    "Add a to-do…": {
+      "en": "Add a to-do…",
+      "zh-Hant": "新增待辦事項…",
+      "zh-Hans": "新增待办事项…"
+    },
+    "Auto-archive completed": {
+      "en": "Auto-archive completed",
+      "zh-Hant": "自動封存已完成事項",
+      "zh-Hans": "自动封存已完成事项"
+    },
+    "Completed to-dos stay visible (struck through) until the auto-archive delay passes, then move to the archive.": {
+      "en": "Completed to-dos stay visible (struck through) until the auto-archive delay passes, then move to the archive.",
+      "zh-Hant": "已完成事項會以刪除線保留顯示，在自動封存延遲後移至封存區。",
+      "zh-Hans": "已完成事项会以删除线保留显示，在自动封存延迟后移至封存区。"
+    },
+    "Items stay on the shelf across restarts unless cleared. Files are referenced in place — dropped data and pasted images are stored in NotchHub's Application Support folder.": {
+      "en": "Items stay on the shelf across restarts unless cleared. Files are referenced in place — dropped data and pasted images are stored in NotchHub's Application Support folder.",
+      "zh-Hant": "暫存架項目會在重新啟動後保留，直至清空。檔案會保留原位置的參照；拖入的資料及貼上的圖片儲存在 NotchHub 的應用程式支援資料夾。",
+      "zh-Hans": "暂存架项目会在重新启动后保留，直至清空。文件会保留原位置的参照；拖入的数据及粘贴的图片保存在 NotchHub 的应用程式支援文件夹。"
+    },
+    "%1$@ item%2$@": {
+      "en": "%1$@ item%2$@",
+      "zh-Hant": "%1$@ 項%2$@",
+      "zh-Hans": "%1$@ 项%2$@"
+    },
+    "Shows charging, unplugged, fully charged and low battery (20% / 10%) events beside the notch. Low Power Mode changes are shown too.": {
+      "en": "Shows charging, unplugged, fully charged and low battery (20% / 10%) events beside the notch. Low Power Mode changes are shown too.",
+      "zh-Hant": "在劉海旁顯示充電、拔除電源、充滿電及低電量（20%／10%）事件，亦會顯示低耗電模式變更。",
+      "zh-Hans": "在刘海旁显示充电、拔除电源、充满电及低电量（20%／10%）事件，亦会显示低耗电模式变更。"
+    },
+    "Battery %1$@ percent%2$@": {
+      "en": "Battery %1$@ percent%2$@",
+      "zh-Hant": "電量百分之 %1$@%2$@",
+      "zh-Hans": "电量百分之 %1$@%2$@"
+    },
+    ", charging": {
+      "en": ", charging",
+      "zh-Hant": "，充電中",
+      "zh-Hans": "，充电中"
+    },
+    "Connected": {
+      "en": "Connected",
+      "zh-Hant": "已連接",
+      "zh-Hans": "已连接"
+    },
+    "Disconnected": {
+      "en": "Disconnected",
+      "zh-Hant": "已中斷連線",
+      "zh-Hans": "已中断连接"
+    },
+    "Using AppleScript fallback (%1$@)": {
+      "en": "Using AppleScript fallback (%1$@)",
+      "zh-Hant": "使用 AppleScript 後備控制（%1$@）",
+      "zh-Hans": "使用 AppleScript 后备控制（%1$@）"
+    },
+    "Automation access denied for Spotify / Music": {
+      "en": "Automation access denied for Spotify / Music",
+      "zh-Hant": "Spotify／音樂的自動化存取已被拒絕",
+      "zh-Hans": "Spotify／音乐的自动化存取已被拒绝"
+    },
+    "Allow Automation access": {
+      "en": "Allow Automation access",
+      "zh-Hant": "允許自動化存取",
+      "zh-Hans": "允许自动化存取"
+    },
+    "%1$@ characters": {
+      "en": "%1$@ characters",
+      "zh-Hant": "%1$@ 個字元",
+      "zh-Hans": "%1$@ 个字元"
+    },
+    "%1$@ hidden": {
+      "en": "%1$@ hidden",
+      "zh-Hant": "已隱藏 %1$@ 個",
+      "zh-Hans": "已隐藏 %1$@ 个"
+    },
+    "Event": {
+      "en": "Event",
+      "zh-Hant": "日程",
+      "zh-Hans": "日程"
+    },
+    "Hide all-day events": {
+      "en": "Hide all-day events",
+      "zh-Hant": "隱藏全天日程",
+      "zh-Hans": "隐藏全天日程"
+    },
+    "Hide multi-day events": {
+      "en": "Hide multi-day events",
+      "zh-Hant": "隱藏跨日日程",
+      "zh-Hans": "隐藏跨日日程"
+    },
+    "NotchHub needs full Calendar access to show your events. Grant it under Privacy & Security › Calendars.": {
+      "en": "NotchHub needs full Calendar access to show your events. Grant it under Privacy & Security › Calendars.",
+      "zh-Hant": "NotchHub 需要完整日曆存取以顯示日程，請在「私隱與保安 › 日曆」允許。",
+      "zh-Hans": "NotchHub 需要完整日历存取以显示日程，请在「私隐与保安 › 日历」允许。"
+    }
+  },
+  "BarPilot": {
+    "weekday.sun": {
+      "en": "Sun",
+      "zh-Hant": "日",
+      "zh-Hans": "日"
+    },
+    "weekday.mon": {
+      "en": "Mon",
+      "zh-Hant": "一",
+      "zh-Hans": "一"
+    },
+    "weekday.tue": {
+      "en": "Tue",
+      "zh-Hant": "二",
+      "zh-Hans": "二"
+    },
+    "weekday.wed": {
+      "en": "Wed",
+      "zh-Hant": "三",
+      "zh-Hans": "三"
+    },
+    "weekday.thu": {
+      "en": "Thu",
+      "zh-Hant": "四",
+      "zh-Hans": "四"
+    },
+    "weekday.fri": {
+      "en": "Fri",
+      "zh-Hant": "五",
+      "zh-Hans": "五"
+    },
+    "weekday.sat": {
+      "en": "Sat",
+      "zh-Hant": "六",
+      "zh-Hans": "六"
+    }
+  },
+  "DeskTools": {
+    "Press ⌘1 to toggle sidebar": {
+      "en": "Press ⌘1 to toggle sidebar",
+      "zh-Hant": "按 ⌘1 顯示或隱藏側邊欄",
+      "zh-Hans": "按 ⌘1 显示或隐藏侧边栏"
+    },
+    "Press ⌘/ to search tools": {
+      "en": "Press ⌘/ to search tools",
+      "zh-Hant": "按 ⌘/ 搜尋工具",
+      "zh-Hans": "按 ⌘/ 搜寻工具"
+    },
+    "Dismiss tips": {
+      "en": "Dismiss tips",
+      "zh-Hant": "隱藏提示",
+      "zh-Hans": "隐藏提示"
+    },
+    "Press %1$@ to show / hide this window": {
+      "en": "Press %1$@ to show / hide this window",
+      "zh-Hant": "按 %1$@ 顯示或隱藏此視窗",
+      "zh-Hans": "按 %1$@ 显示或隐藏此窗口"
+    },
+    "Right-click the menu bar icon for quick tools": {
+      "en": "Right-click the menu bar icon for quick tools",
+      "zh-Hant": "右鍵按選單列圖示以使用快速工具",
+      "zh-Hans": "右键按菜单栏图标以使用快速工具"
+    },
+    "Input": {
+      "en": "Input",
+      "zh-Hant": "輸入",
+      "zh-Hans": "输入"
+    },
+    "Output": {
+      "en": "Output",
+      "zh-Hant": "輸出",
+      "zh-Hans": "输出"
+    },
+    "Unix Time Converter": {
+      "en": "Unix Time Converter",
+      "zh-Hant": "Unix 時間轉換",
+      "zh-Hans": "Unix 时间转换"
+    },
+    "JSON Format / Validate": {
+      "en": "JSON Format / Validate",
+      "zh-Hant": "JSON 格式化及驗證",
+      "zh-Hans": "JSON 格式化及验证"
+    },
+    "Base64 String Encode / Decode": {
+      "en": "Base64 String Encode / Decode",
+      "zh-Hant": "Base64 文字編碼及解碼",
+      "zh-Hans": "Base64 文字编码及解码"
+    },
+    "Base64 Image Viewer": {
+      "en": "Base64 Image Viewer",
+      "zh-Hant": "Base64 圖片檢視",
+      "zh-Hans": "Base64 图片检视"
+    },
+    "JWT Decoder": {
+      "en": "JWT Decoder",
+      "zh-Hant": "JWT 解碼",
+      "zh-Hans": "JWT 解码"
+    },
+    "RegExp Tester": {
+      "en": "RegExp Tester",
+      "zh-Hant": "正則表達式測試",
+      "zh-Hans": "正则表达式测试"
+    },
+    "URL Encode / Decode": {
+      "en": "URL Encode / Decode",
+      "zh-Hant": "URL 編碼及解碼",
+      "zh-Hans": "URL 编码及解码"
+    },
+    "URL Parser": {
+      "en": "URL Parser",
+      "zh-Hant": "URL 分析",
+      "zh-Hans": "URL 分析"
+    },
+    "HTML Entity Encode / Decode": {
+      "en": "HTML Entity Encode / Decode",
+      "zh-Hant": "HTML 實體編碼及解碼",
+      "zh-Hans": "HTML 实体编码及解码"
+    },
+    "Backslash Escape / Unescape": {
+      "en": "Backslash Escape / Unescape",
+      "zh-Hant": "反斜線跳脫及還原",
+      "zh-Hans": "反斜线跳脱及恢复"
+    },
+    "UUID / ULID Generator": {
+      "en": "UUID / ULID Generator",
+      "zh-Hant": "UUID / ULID 產生器",
+      "zh-Hans": "UUID / ULID 产生器"
+    },
+    "Text Diff Checker": {
+      "en": "Text Diff Checker",
+      "zh-Hant": "文字差異比較",
+      "zh-Hans": "文字差异比较"
+    },
+    "YAML to JSON": {
+      "en": "YAML to JSON",
+      "zh-Hant": "YAML 轉 JSON",
+      "zh-Hans": "YAML 转 JSON"
+    },
+    "JSON to YAML": {
+      "en": "JSON to YAML",
+      "zh-Hant": "JSON 轉 YAML",
+      "zh-Hans": "JSON 转 YAML"
+    },
+    "Number Base Converter": {
+      "en": "Number Base Converter",
+      "zh-Hant": "進位轉換",
+      "zh-Hans": "进位转换"
+    },
+    "HTML Beautify / Minify": {
+      "en": "HTML Beautify / Minify",
+      "zh-Hant": "HTML 格式化及壓縮",
+      "zh-Hans": "HTML 格式化及压缩"
+    },
+    "CSS Beautify / Minify": {
+      "en": "CSS Beautify / Minify",
+      "zh-Hant": "CSS 格式化及壓縮",
+      "zh-Hans": "CSS 格式化及压缩"
+    },
+    "JS Beautify / Minify": {
+      "en": "JS Beautify / Minify",
+      "zh-Hant": "JS 格式化及壓縮",
+      "zh-Hans": "JS 格式化及压缩"
+    },
+    "ERB Beautify / Minify": {
+      "en": "ERB Beautify / Minify",
+      "zh-Hant": "ERB 格式化及壓縮",
+      "zh-Hans": "ERB 格式化及压缩"
+    },
+    "LESS Beautify / Minify": {
+      "en": "LESS Beautify / Minify",
+      "zh-Hant": "LESS 格式化及壓縮",
+      "zh-Hans": "LESS 格式化及压缩"
+    },
+    "SCSS Beautify / Minify": {
+      "en": "SCSS Beautify / Minify",
+      "zh-Hant": "SCSS 格式化及壓縮",
+      "zh-Hans": "SCSS 格式化及压缩"
+    },
+    "XML Beautify / Minify": {
+      "en": "XML Beautify / Minify",
+      "zh-Hant": "XML 格式化及壓縮",
+      "zh-Hans": "XML 格式化及压缩"
+    },
+    "Lorem Ipsum Generator": {
+      "en": "Lorem Ipsum Generator",
+      "zh-Hant": "Lorem Ipsum 產生器",
+      "zh-Hans": "Lorem Ipsum 产生器"
+    },
+    "QR Code Reader / Generator": {
+      "en": "QR Code Reader / Generator",
+      "zh-Hant": "QR 碼讀取及產生",
+      "zh-Hans": "QR 码读取及产生"
+    },
+    "String Inspector": {
+      "en": "String Inspector",
+      "zh-Hant": "字串分析",
+      "zh-Hans": "字串分析"
+    },
+    "JSON to CSV": {
+      "en": "JSON to CSV",
+      "zh-Hant": "JSON 轉 CSV",
+      "zh-Hans": "JSON 转 CSV"
+    },
+    "CSV to JSON": {
+      "en": "CSV to JSON",
+      "zh-Hant": "CSV 轉 JSON",
+      "zh-Hans": "CSV 转 JSON"
+    },
+    "Hash Generator": {
+      "en": "Hash Generator",
+      "zh-Hant": "雜湊產生器",
+      "zh-Hans": "杂凑产生器"
+    },
+    "HTML to JSX": {
+      "en": "HTML to JSX",
+      "zh-Hant": "HTML 轉 JSX",
+      "zh-Hans": "HTML 转 JSX"
+    },
+    "Markdown Preview": {
+      "en": "Markdown Preview",
+      "zh-Hant": "Markdown 預覽",
+      "zh-Hans": "Markdown 预览"
+    },
+    "SQL Formatter": {
+      "en": "SQL Formatter",
+      "zh-Hant": "SQL 格式化",
+      "zh-Hans": "SQL 格式化"
+    },
+    "String Case Converter": {
+      "en": "String Case Converter",
+      "zh-Hant": "文字大小寫轉換",
+      "zh-Hans": "文字大小写转换"
+    },
+    "Cron Job Parser": {
+      "en": "Cron Job Parser",
+      "zh-Hant": "Cron 排程分析",
+      "zh-Hans": "Cron 排程分析"
+    },
+    "Color Converter": {
+      "en": "Color Converter",
+      "zh-Hant": "顏色轉換",
+      "zh-Hans": "颜色转换"
+    },
+    "PHP to JSON": {
+      "en": "PHP to JSON",
+      "zh-Hant": "PHP 轉 JSON",
+      "zh-Hans": "PHP 转 JSON"
+    },
+    "JSON to PHP": {
+      "en": "JSON to PHP",
+      "zh-Hant": "JSON 轉 PHP",
+      "zh-Hans": "JSON 转 PHP"
+    },
+    "PHP Serializer": {
+      "en": "PHP Serializer",
+      "zh-Hant": "PHP 序列化",
+      "zh-Hans": "PHP 序列化"
+    },
+    "PHP Unserializer": {
+      "en": "PHP Unserializer",
+      "zh-Hant": "PHP 反序列化",
+      "zh-Hans": "PHP 反序列化"
+    },
+    "Random String Generator": {
+      "en": "Random String Generator",
+      "zh-Hant": "隨機字串產生器",
+      "zh-Hans": "随机字串产生器"
+    },
+    "SVG to CSS": {
+      "en": "SVG to CSS",
+      "zh-Hant": "SVG 轉 CSS",
+      "zh-Hans": "SVG 转 CSS"
+    },
+    "cURL to Code": {
+      "en": "cURL to Code",
+      "zh-Hant": "cURL 轉程式碼",
+      "zh-Hans": "cURL 转程式码"
+    },
+    "JSON to Code": {
+      "en": "JSON to Code",
+      "zh-Hant": "JSON 轉程式碼",
+      "zh-Hans": "JSON 转程式码"
+    },
+    "Certificate Decoder (X.509)": {
+      "en": "Certificate Decoder (X.509)",
+      "zh-Hant": "憑證解碼（X.509）",
+      "zh-Hans": "凭证解码（X.509）"
+    },
+    "Hex to ASCII / UTF-8": {
+      "en": "Hex to ASCII / UTF-8",
+      "zh-Hant": "十六進位轉 ASCII / UTF-8",
+      "zh-Hans": "十六进位转 ASCII / UTF-8"
+    },
+    "ASCII / UTF-8 to Hex": {
+      "en": "ASCII / UTF-8 to Hex",
+      "zh-Hant": "ASCII / UTF-8 轉十六進位",
+      "zh-Hans": "ASCII / UTF-8 转十六进位"
+    },
+    "Line Sort / Dedupe": {
+      "en": "Line Sort / Dedupe",
+      "zh-Hant": "行排序及去重",
+      "zh-Hans": "行排序及去重"
+    },
+    "Search…  ⌘⇧F": {
+      "en": "Search…  ⌘⇧F",
+      "zh-Hant": "搜尋…  ⌘⇧F",
+      "zh-Hans": "搜寻…  ⌘⇧F"
+    },
+    "%1$@ bytes": {
+      "en": "%1$@ bytes",
+      "zh-Hant": "%1$@ 位元組",
+      "zh-Hans": "%1$@ 位元组"
+    },
+    "Preview": {
+      "en": "Preview",
+      "zh-Hant": "預覽",
+      "zh-Hans": "预览"
+    }
+  }
+}
